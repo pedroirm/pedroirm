@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Icaro</h1>
-<h3 align="center">A FullStackDeveloper</h3>
+<h3 align="center">A FullStack Developer</h3>
 
 - 🌱 I’m currently learning **Laravel, React and Docker**
 
