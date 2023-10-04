@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Moraes</h1>
 <h3 align="center">Backend Developer | PHP | Laravel | Node.js | Nest.js | Typescript | AWS</h3>
 
-- 🔭 I’m currently working on [Tecnologia em Premiações](https://horadopremio.com.br)
 
 - 👨‍💻 All of my projects are available at [pedromoraes.dev](pedromoraes.dev)
 
